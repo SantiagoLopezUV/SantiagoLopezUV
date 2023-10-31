@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi There 👋
 
-<!--
-**SantiagoLopezUV/SantiagoLopezUV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+    <h1 align="center">Welcome, I'm Santiago</h1>
+    <h3 align="center">I'm Santiago, I'm Electronics Technologist, also studying Systems Engineering.
+        I only program in Python for now, but I'm striving to be the best. 
+    </h3>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### About Me:
+
+- 🌎 I live in Colombia
+- 🔭 I’m Currently Working on ...
+- 🌱 I’m Currently Learning Another Language...
+- 📫 How to Reach Me: santiago.lopez.ramirez@correounivalle.edu.co
+- 😄 Pronouns: My Friends tell me "San" 
 -->
+
+<div align="left">
+    <h3>💡Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"
+        weidt="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode"
+        weidt="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab"
+        weidt="40" height="40"/>&nbsp;
+    </div>
+</div>
