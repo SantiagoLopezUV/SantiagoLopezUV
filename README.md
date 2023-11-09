@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
     <h1 align="center">Welcome, I'm Santiago</h1>
-    <h3 align="center">I'm Santiago, I'm Electronics Technologist, also studying Systems Engineering.
+    <h3 align="center">I'm Santiago Lopez Ramirez, I'm Electronics Technologist, also studying Systems Engineering.
         I only program in Python for now, but I'm striving to be the best. 
     </h3>
 </div>
@@ -12,7 +12,7 @@
 ### About Me:
 
 - 🌎 I live in Colombia
-- 🔭 I’m Currently Working on ...
+- 🔭 I am currently not working, I can work half of the time
 - 🌱 I’m Currently Learning Another Language...
 - 📫 How to Reach Me: santiago.lopez.ramirez@correounivalle.edu.co
 - 😄 Pronouns: My Friends tell me "San" 
