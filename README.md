@@ -8,7 +8,7 @@
 📍 Colombia (GMT-5) · 🌐 Available for remote work · 🕒 Part-time
 
 [![Email](https://img.shields.io/badge/Email-santiago.lopez.ramirez%40correounivalle.edu.co-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.lopez.ramirez@correounivalle.edu.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-lopez-ramirez-07785839a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-lopez-ramirez-uv)
 
 </div>
 
